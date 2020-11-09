@@ -82,6 +82,9 @@
 #ifndef FIL_RUNOUT2_PIN
   #define FIL_RUNOUT2_PIN                     67
 #endif
+#ifndef FIL_RUNOUT3_PIN
+  #define FIL_RUNOUT3_PIN                     68
+#endif
 
 //
 // Power Recovery

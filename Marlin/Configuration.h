@@ -1172,9 +1172,6 @@
   #define FIL_RUNOUT_ENABLED_DEFAULT true // Enable the sensor on startup. Override with M412 followed by M500.
   #define FIL_RUNOUT_STATE     LOW        // Pin state indicating that filament is NOT present.
   #define NUM_RUNOUT_SENSORS   3
-  #define FIL_RUNOUT_PIN      66
-  #define FIL_RUNOUT2_PIN     67
-  #define FIL_RUNOUT3_PIN     68
   #define FIL_RUNOUT_INVERTING true  // Set to true to invert the logic of the sensors.
   #define FIL_RUNOUT_PULLUP          // Use internal pullup for filament runout pins.
   //#define FIL_RUNOUT_PULLDOWN      // Use internal pulldown for filament runout pins.
